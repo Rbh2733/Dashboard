@@ -1,0 +1,4 @@
+ticker,shares,purchase_price,purchase_date
+AAPL,10,150.00,2024-01-15
+MSFT,5,350.00,2024-02-01
+SPY,20,450.00,2024-01-10
