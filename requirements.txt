@@ -1,0 +1,26 @@
+# Financial Dashboard Requirements
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Financial Data
+yfinance>=0.2.28
+
+# Technical Analysis
+pandas-ta>=0.3.14b
+
+# Visualization
+plotly>=5.14.0
+matplotlib>=3.7.0
+
+# Dashboard Framework
+streamlit>=1.28.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+python-dateutil>=2.8.2
+requests>=2.31.0
