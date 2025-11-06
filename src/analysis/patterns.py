@@ -11,7 +11,7 @@ Patterns included:
 
 import pandas as pd
 import numpy as np
-from typing import List, Tuple, Optional
+from typing import List, Tuple, Optional, Dict
 
 
 def identify_doji(df: pd.DataFrame, threshold: float = 0.1) -> pd.Series:
